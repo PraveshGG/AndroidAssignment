@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">notificationTest</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="date_count_format">%1$d @%2$s</string>
+
+    <string name="get_location">Track Location</string>
+    <string name="show_maps">Show on Maps</string>
+
+    <!-- week 4 strings -->
+    <string name="android_image">Android Image</string>
+    <string name="textview_hint">Press the Track button to get the last known location and
+            press the Show in Maps button to view in maps</string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f \n Timestamp: %3$tr"</string>
+    <string name="no_location">No Location Found</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates were supplied to the Geocoder</string>
+    <string name="no_address_found">No Addresses Found</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">Loading</string>
+    <string-array name="colors">
+        <item name="black">black</item>
+        <item name="blue">blue</item>
+        <item name="red">red</item>
+        <item name="green">green</item>
+    </string-array>
+    <!-- week 5 strings-->
+    <string name="title_activity_maps">Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="dropped_pin">Dropped Pin</string>
+
+</resources>

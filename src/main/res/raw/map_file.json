@@ -1,0 +1,22 @@
+[
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#000080"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "stylers": [
+      {
+        "saturation": 100
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  }
+]
